@@ -60,6 +60,7 @@
     if (sendCount != -1) {
         NSLog(@"成功:%zd",sendCount);
         NSLog(@"成功:%zd",sendCount);
+        NSLog(@"成功:%zd",sendCount);
 
     }else{
         NSLog(@"失败");
