@@ -59,6 +59,8 @@
     long sendCount = send(clientSocket, msg, strlen(msg), 0);
     if (sendCount != -1) {
         NSLog(@"成功:%zd",sendCount);
+        NSLog(@"成功:%zd",sendCount);
+
     }else{
         NSLog(@"失败");
     }
