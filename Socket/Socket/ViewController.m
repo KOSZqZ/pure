@@ -61,7 +61,7 @@
         NSLog(@"成功:%zd",sendCount);
         NSLog(@"成功:%zd",sendCount);
         NSLog(@"成功:%zd",sendCount);
-        NSLog(@"%s__func__",__func__);
+        NSLog(@"%s__fun__func__c__",__func__);
 
     }else{
         NSLog(@"失败");
